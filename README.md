@@ -1,6 +1,6 @@
-# vue-demo
+# vue-talk-demo
 
-> A Vue.js project
+> Project created for my talk in Campus Party Brasil 2018
 
 ## Build Setup
 
